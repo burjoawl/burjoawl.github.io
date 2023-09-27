@@ -2,8 +2,8 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     background-image: url('https://static.vecteezy.com/system/resources/previews/007/890/433/non_2x/light-purple-blurred-background-abstract-pattern-bright-purple-gradient-design-vector.jpg');
-    background-size: cover; /* Optional: Ensures the image covers the entire viewport */
-    background-repeat: no-repeat; /* Optional: Prevents the image from repeating */
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .cv-inline-list {
@@ -69,9 +69,9 @@ body {
     max-width: 70%;
 
     /*--------inner style---------*/
-/*    background-color: #2B2B2B;
+    background-color: #2B2B2B;
     color: #dfdfdf;
-*/
+
     background-color: #FFFFFF;
     color: #444444;
 }
@@ -85,6 +85,7 @@ body {
 .info-section {
     text-align: center;
     color: #000000;
+    
 }
 
 .cv-section {
