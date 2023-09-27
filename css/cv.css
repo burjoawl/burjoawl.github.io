@@ -1,6 +1,9 @@
 /*-------page level styling--------*/
 body {
     font-family: 'Times New Roman', Times, serif;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/007/890/433/non_2x/light-purple-blurred-background-abstract-pattern-bright-purple-gradient-design-vector.jpg');
+    background-size: cover; /* Optional: Ensures the image covers the entire viewport */
+    background-repeat: no-repeat; /* Optional: Prevents the image from repeating */
 }
 
 .cv-inline-list {
